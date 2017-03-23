@@ -1,6 +1,6 @@
 {
   "name": "loader-fs-cache",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A published package of https://github.com/babel/babel-loader/blob/master/src/fs-cache.js",
   "main": "index.js",
   "scripts": {
